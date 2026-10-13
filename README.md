@@ -166,6 +166,10 @@ cd Arch-Claude-CLI
 npm install @heyputer/puter.js
 node dashboard.mjs
 ```
+🔸if token not work you can directly run this tool with your working token or test it immediately:
+```
+PUTER_TOKEN="your_long_token_here" node dashboard.mjs
+```
 
 🛠️ Usage
 
