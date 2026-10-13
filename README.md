@@ -174,9 +174,9 @@ PUTER_TOKEN="your_long_token_here" node dashboard.mjs
 🛠️ Usage
 
 To start the dashboard, simply run:
-
+```
 node dashboard.mjs
-
+```
 (Note: If you see an ExperimentalWarning: localStorage is not available, you can
 safely ignore it, or run node --localstorage-file=./.puter_storage dashboard.mjs
 to hide it).
