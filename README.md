@@ -177,12 +177,12 @@ Available Commands
     installed)
   - Clear Context: /clear
 
-👤 Author
+# 👤 Author
 
 mikey-7x
 GitHub: https://github.com/mikey-7x/mikey-7x
 
-📄 License
+# 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for
 details.
