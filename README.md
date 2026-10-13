@@ -158,6 +158,15 @@ rl.on("line", async (line) => {
 });
 EOF
 ```
+
+OR download it directly in terminal:
+```
+git clone https://github.com/mikey-7x/Arch-Claude-CLI.git
+cd Arch-Claude-CLI
+npm install @heyputer/puter.js
+node dashboard.mjs
+```
+
 🛠️ Usage
 
 To start the dashboard, simply run:
