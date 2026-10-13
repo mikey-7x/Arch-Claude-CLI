@@ -40,7 +40,7 @@ npm install @heyputer/puter.js
 Since Termux is a headless environment, we must pass the Puter Auth Token
 manually.
 
-1.  Open your web browser and go to puter.com/dashboard.
+1.  Open your web browser and go to [puter.com/dashboard](puter.com/dashboard).
 2.  Sign up or log into your free account.
 3.  On the dashboard, locate your Auth Token (a long string of characters).
 4.  Copy this token to your clipboard.
@@ -186,35 +186,3 @@ GitHub: https://github.com/mikey-7x/mikey-7x
 
 This project is licensed under the MIT License - see the LICENSE file for
 details.
-
-
-***
-
-### 2. The `LICENSE` File
-For an open-source GitHub project like this, the **MIT License** is standard. It protects you from liability but allows anyone to use, modify, and distribute your code freely. 
-
-Create a new file in your repository called `LICENSE` and paste this exact text into it (make sure to replace `[2026]` and `[mikey-7x]` with the current year and your name/handle):
-
-```text
-MIT License
-
-Copyright (c) 2026 mikey-7x
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
